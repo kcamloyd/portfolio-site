@@ -15,3 +15,9 @@
 .hero {
   width: 100%;
 }
+
+.featured-work {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
