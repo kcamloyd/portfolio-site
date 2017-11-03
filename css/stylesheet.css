@@ -4,4 +4,10 @@
 
 .logo{
   float: left;
+  vertical-align: middle;
+}
+
+.full-width{
+  width: 100%;
+  background-color: #f1f0ed;
 }
