@@ -13,3 +13,12 @@
 .screenshot {
   width: 100%;
 }
+
+.project-title {
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+
+article {
+  padding-top: 10px;
+}
